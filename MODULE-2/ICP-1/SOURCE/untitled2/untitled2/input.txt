@@ -1,0 +1,7 @@
+animals,cat,kitty
+animals,dog,snoopy
+animals,cat,kit
+animals,dog,blessy
+animals,dog,snickers
+animals,cat,koel
+animals,cat,jolp
